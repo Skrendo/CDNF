@@ -1,1 +1,11 @@
-p { color: red; text-align: center } .test { color: #00f } ul { color: green; text-align: left }
+p {
+  color: red;
+  text-align: center
+}
+.test {
+  color: #00f
+}
+ul {
+  color: green;
+  text-align: left
+}
